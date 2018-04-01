@@ -45,10 +45,9 @@ my_list.sort()
 print(my_list)
 
 #Printing a List in Reverse Order
-print(my_list.reverse())
+my_list.reverse()
+print(my_list)
 
 #Finding the Length of a List
 len_of_list = len(my_list)
 print(len_of_list)
-
-#
